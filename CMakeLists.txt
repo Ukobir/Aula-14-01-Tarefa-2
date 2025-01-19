@@ -62,4 +62,5 @@ target_link_libraries(Tarefa_2
         )
 
 pico_add_extra_outputs(Tarefa_2)
+# (y_y)(T_T)
 
