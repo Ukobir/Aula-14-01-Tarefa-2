@@ -103,4 +103,5 @@ void menu()
     printf("5 - Aperte 3 para ligar todos os LEDS\n");
     printf("6 - Aperte S para ativar os Buzzers por 2 segundos\n");
     printf("7 - Aperte K para entrar no modo Bootloader\n");
+    printf("8 - Aperte M para tocar uma música\n");
 }

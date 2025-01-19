@@ -9,5 +9,6 @@ Este código tem como objetivo o acionamento do LEDs por meio da comunicação S
 - Aperte 3 para ligar todos os LEDS
 - Aperte S para ativar os Buzzers por 2 segundos
 - Aperte K para entrar no modo Bootloader (Função experimental: o compilador não reconhece a função de reset)
+- Aperte M para tocar uma música
 
 ## URL do video do funcionamento do programa
